@@ -3,7 +3,7 @@ from Tkinter import *
 import webbrowser
 import thrain
 import Tkinter, Tkconstants, tkFileDialog
-
+#Tolchin Maxim
 '''
 -----------------------------------------------------------------
 OPEN FILE AND DIRECTORY
